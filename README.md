@@ -1,1 +1,1 @@
-Holberton School
+Programming School
